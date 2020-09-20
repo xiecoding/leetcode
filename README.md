@@ -1,3 +1,3 @@
-# lentcode
+# leetcode
 
-## 放在lentcode上做的题目
+## 放在leetcode上做的题目
